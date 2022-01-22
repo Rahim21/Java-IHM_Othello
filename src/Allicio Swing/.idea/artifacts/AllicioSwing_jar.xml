@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="AllicioSwing:jar">
+    <output-path>$PROJECT_DIR$</output-path>
+    <root id="archive" name="AllicioSwing.jar">
+      <element id="module-output" name="Allicio Swing" />
+    </root>
+  </artifact>
+</component>
